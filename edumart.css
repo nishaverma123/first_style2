@@ -1,0 +1,128 @@
+body{
+    margin: 0;padding: 0; font-family: Lucida Bright;
+}
+.header{
+    height: 10px;
+    width: 99%;
+    background-color: black;
+    color: white;
+    padding: 10px;
+
+}
+.header_1{
+    float: right;
+    margin-top: -4px;
+}
+.header_2{
+    background-color:white;
+    height: 30px;
+    width: 100%;
+    padding: 13px;
+    float:left;
+    font-style: inherit;
+    font-size: 18px;
+    font-weight: bold;
+}
+.header_3{
+
+   
+    padding: 20px;
+    margin-top: -50px;
+    float:right;
+    margin-right: 56px;
+    font-style: normal;
+    font-size: 15px;
+}
+.header_4{
+    padding:20px;
+    margin-top:-25px;
+    float:right;
+    margin-right: 49px;
+    font-style: normal;
+    font-size: 18px;
+    
+}
+.header_5{
+    border: 1px solid blue;
+    color :black;
+    font-size: 19px;
+    margin-left: 180px;
+    margin-top: -31px;
+    padding: 4px;
+    margin-right:-101px;
+
+}
+.menu_bar{
+    height: 60px;
+    width: 99%;
+    background-color: green;
+    padding:20px 10px 20px 10px;
+}
+.menu_bar ul{
+    display: inline-block;
+    float:left;
+    text-decoration: none;
+}
+.menu_bar ul li{
+    display: inline-block;
+    float: left;
+    text-decoration: none;
+    padding: 12px 34px 13px 51px;
+    margin-top: -16px;
+    border: 1px solid white;
+   
+
+}
+.menu_bar ul li a{
+    color: white;
+    text-decoration: none;
+}
+.menu_bar ul li a:hover{
+    background-color:black;
+    border: 10px;
+    
+}
+.image{
+    height: 83%;
+    width: 100%;
+    margin-top: -1px;
+    padding-top: 5px;
+   margin-left:1px;
+}
+.orange{
+    height: 100px;
+    width: 152px;
+    border: 1px solid orange;
+    background-color: orange;
+    color: white;
+    font-size: 20px;
+    font-style: bold;
+    margin-left: 30px;
+    
+}
+.blue{
+    height: 100px;
+    width: 150px;
+    border: 1px solid rgba(6, 163, 236, 0.897);
+    background-color:rgba(6, 163, 236, 0.897);
+    color: white;
+    font-size: 20px;
+    font-style: bold;
+    margin-left: 183px;
+    margin-top:-102px;
+}
+.green{
+    height:100px;
+    width:139px;
+    border: 1px solid green;
+    background-color: green;
+    color: white;
+    font-size: 18px;
+    font-style: bold;
+    margin-left:335px;
+    margin-top: -103px;
+
+}
+
+
+

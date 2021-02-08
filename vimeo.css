@@ -1,0 +1,166 @@
+body{ margin: 0; padding: 0; font-family: Lucida Bright;}
+.header{
+    padding: 10px  5px 10px;
+    height:40px;
+    width:100%;
+    background-color: blue;
+    color: white;
+    float:left;
+    
+}
+ .header_1{
+    
+    height: 50px;
+    width: auto;
+     display: inline-block;
+    width:auto;
+    padding: 15PX;
+}
+.clr{
+    float:left;
+     border-radius: 10px 0px 100px 0px;
+    background:rgba(233, 155, 10, 0.836);
+    padding: 35px;
+    width: 50px;
+    height: 45px;
+    margin-top:-1px;
+    margin-left: -5px;
+    box-shadow: 15px 15px 10px rgb(0, 68, 255);
+}
+  
+.center{
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#b3dced+0,29b8e5+51,bce0ee+100 */
+background: rgb(179,220,237); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(179,220,237,1) 0%, rgba(41,184,229,1) 51%, rgba(188,224,238,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(179,220,237,1) 0%,rgba(41,184,229,1) 51%,rgba(188,224,238,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(179,220,237,1) 0%,rgba(41,184,229,1) 51%,rgba(188,224,238,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3dced', endColorstr='#bce0ee',GradientType=0 ); /* IE6-9 */
+
+    height:100%;
+    width: auto;
+    margin-top: 10px;
+    font-size:100px;
+    font-weight: 200px;
+    font-style: italic;
+    padding: 105px 105px 120px;
+     
+}
+.center_1{
+      float:right;
+      color: black;
+      font-style:normal;
+      font-size: x-large;
+      padding: 40px 95px 90px;
+}
+.center_2{
+    color: blue;
+}
+.color{
+    height:auto;
+    width:80%;
+    padding: 20px;
+    background-color: rgb(2, 2, 37);
+}
+.video{
+height:40px; 
+width: 150px;
+margin-top: 56px;
+float: left;
+font-size:20px;
+font-style: normal;
+ background-color: rgb(2, 2, 37);
+color: aqua;
+ border-radius: 10px 10px 0px 0px;
+ padding-left:35px;
+ position: relative;
+ left: 30px;
+}
+.video:hover{
+    background-color: blue;
+    text-shadow: 2px 2px palevioletred;
+
+    
+}
+
+.video_1{
+    display: inline block;
+height:40px;
+width: 120px;
+float: left;
+margin-top: -24px;
+font-size:20px;
+font-style:normal;
+ background-color:rgb(39, 145, 187);
+color: white;
+ border-radius: 20px;
+ padding-left: 20px ;
+ position: absolute;
+ left:280px;
+ position: relative;
+ left: 160px;
+ border-radius: 10px 10px 0px 0px;
+
+}
+.video_1:hover{
+
+    background-color: blue;
+    text-shadow: 2px 2px palevioletred;
+
+}
+.video_2{
+    display: inline block;
+    height:40px; 
+    width: 120px;
+    float: left;
+    margin-top: -40px;
+    font-size:20px;
+    font-style: normal;
+     background-color:rgb(39, 145, 187);
+    color: white;
+     border-radius: 20px;
+     padding-left: 20px ;
+     position: relative;
+     left: 315px;
+     border-radius: 10px 10px 0px 0px;
+    
+    }
+.video_2:hover{
+    background-color: blue;
+    text-shadow: 2px 2px palevioletred;
+
+}
+
+.btn_1{
+    
+    display: inline-block;
+    margin-left: 600px;
+    margin-top:-35px;
+}
+btn_1:hover{
+   border-radius: 2px;
+}
+.img{
+    height:70%;
+    width:55%;
+
+}
+
+
+.ww{
+    float:right;
+      color:skyblue;
+      font-style:normal;
+      font-size: x-large;
+      margin-left: 240px;
+      margin-top: -400px;
+      margin-right: 150px;
+      position: relative;
+      left: 110px;
+}
+.ww_1{
+    font-style: normal;
+    font-size: 20px;
+    color:white;
+    margin-top:-100px ;
+}
+
